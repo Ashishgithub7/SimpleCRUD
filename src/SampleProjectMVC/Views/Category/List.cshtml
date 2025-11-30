@@ -1,0 +1,42 @@
+﻿@model IEnumerable<Common.DTO.Categories.CategoryReadDto>;
+@{
+    ViewData["Title"] = "Categories";
+}
+
+<h1>Categories</h1>
+
+<a class="btn btn-primary mb-3" asp-controller="Category" asp-action="Create">Add New Category</a>
+
+<table class="table table-bordered table-striped">
+    <thead>
+        <tr>
+            <th>Id</th>
+            <th>Name</th>
+            <th>Description</th>
+            <th>Created Date</th>
+            <th>Updated Date</th>
+            <th>Actions</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var category in Model)
+        {
+            <tr>
+                <td>@category.Id</td>
+                <td>@category.Name</td>
+                <td>@category.Description</td>
+                <td>@category.CreatedDate</td>
+                <td>@(category.UpdatedDate?.ToString("yyyy-MM-dd HH:mm") ?? "Not updated")</td>
+                <td>
+                    <a class="btn btn-sm btn-warning" asp-action="Edit" asp-route-id="@category.Id">Edit</a>
+                    <form method="delete" asp-route-id="@category.Id" style="display:inline">
+                        <a data-id="@category.Id" data-type="Category" href="#" class="btn btn-danger btn-sm delete">Delete</a>
+                    </form>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+@section Scripts {
+    <script src="~/js/delete.js"></script>
+}

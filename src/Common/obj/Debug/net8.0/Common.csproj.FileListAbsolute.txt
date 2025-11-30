@@ -1,0 +1,12 @@
+C:\Users\Dell\OneDrive\Desktop\Hell\DotNet\.NET_Practice\kachuwa\Kachuwa\SampleProject\Common\bin\Debug\net8.0\Common.deps.json
+C:\Users\Dell\OneDrive\Desktop\Hell\DotNet\.NET_Practice\kachuwa\Kachuwa\SampleProject\Common\bin\Debug\net8.0\Common.dll
+C:\Users\Dell\OneDrive\Desktop\Hell\DotNet\.NET_Practice\kachuwa\Kachuwa\SampleProject\Common\bin\Debug\net8.0\Common.pdb
+C:\Users\Dell\OneDrive\Desktop\Hell\DotNet\.NET_Practice\kachuwa\Kachuwa\SampleProject\Common\obj\Debug\net8.0\Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\OneDrive\Desktop\Hell\DotNet\.NET_Practice\kachuwa\Kachuwa\SampleProject\Common\obj\Debug\net8.0\Common.AssemblyInfoInputs.cache
+C:\Users\Dell\OneDrive\Desktop\Hell\DotNet\.NET_Practice\kachuwa\Kachuwa\SampleProject\Common\obj\Debug\net8.0\Common.AssemblyInfo.cs
+C:\Users\Dell\OneDrive\Desktop\Hell\DotNet\.NET_Practice\kachuwa\Kachuwa\SampleProject\Common\obj\Debug\net8.0\Common.csproj.CoreCompileInputs.cache
+C:\Users\Dell\OneDrive\Desktop\Hell\DotNet\.NET_Practice\kachuwa\Kachuwa\SampleProject\Common\obj\Debug\net8.0\Common.sourcelink.json
+C:\Users\Dell\OneDrive\Desktop\Hell\DotNet\.NET_Practice\kachuwa\Kachuwa\SampleProject\Common\obj\Debug\net8.0\Common.dll
+C:\Users\Dell\OneDrive\Desktop\Hell\DotNet\.NET_Practice\kachuwa\Kachuwa\SampleProject\Common\obj\Debug\net8.0\refint\Common.dll
+C:\Users\Dell\OneDrive\Desktop\Hell\DotNet\.NET_Practice\kachuwa\Kachuwa\SampleProject\Common\obj\Debug\net8.0\Common.pdb
+C:\Users\Dell\OneDrive\Desktop\Hell\DotNet\.NET_Practice\kachuwa\Kachuwa\SampleProject\Common\obj\Debug\net8.0\ref\Common.dll
