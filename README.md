@@ -3,6 +3,7 @@
 ## Project Overview
 **SimpleCRUD** is a .NET MVC project demonstrating CRUD operations (Create, Read, Update, Delete) using the **Kachuwa Framework**.  
 It shows how to structure a small MVC app with models, views, and controllers in 4 layer architechture(Common, Data, Business and Presentation) while leveraging Kachuwa features. This project serves as a simple, functional example of a web application built with .NET MVC.
+This project utilizes IDatabaseFactory interface and services inside the framework for simplifying database queries.
 
 ---
 
@@ -60,5 +61,5 @@ git clone https://github.com/SilentTurtle/Kachuwa.git
 ## Note
 - The Kachuwa framework is not included in this repository. Please Clone it separately and reference it as explained above.
 - This project demonstrates basic CRUD functionality and project structure using the Kachuwa Framework.
-- Project has also used javascript and jquery for deletion feature for making it more smooth and user friendly
-- This small project is made smooth as possible
+- Project has also used javascript, jquery and AJAX for deletion feature for making it more smooth and user friendly.
+- This small project is made smooth as possible.
