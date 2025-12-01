@@ -30,7 +30,6 @@ This project utilizes IDatabaseFactory interface and services inside the framewo
 
 ```bash
 git clone https://github.com/Ashishgithub7/SimpleCRUD.git
-cd SimpleCRUD/src/SampleProjectMVC 
 ```
 2. **Add Kachuwa Framework**
 
